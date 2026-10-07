@@ -1,0 +1,36 @@
+# GitHub Deployment Workflow
+
+This project demonstrates how to automatically deploy an HTML website to GitHub Pages using GitHub Actions.
+
+## Project
+
+The website contains a simple `index.html` file with the message:
+
+> Hello, GitHub Actions!
+
+## GitHub Actions
+
+The deployment workflow is located at:
+
+`.github/workflows/deploy.yml`
+
+The workflow is configured to:
+
+1. Run when code is pushed to the `main` branch.
+2. Run only when `index.html` is changed.
+3. Deploy the website to GitHub Pages.
+4. Make the website available through the repository's GitHub Pages URL.
+
+## GitHub Pages URL
+
+After deployment, the website will be available at:
+
+https://YOUR-USERNAME.github.io/gh-deployment-workflow/
+
+Replace `YOUR-USERNAME` with your GitHub username.
+
+## Technologies
+
+- HTML
+- GitHub Actions
+- GitHub Pages
