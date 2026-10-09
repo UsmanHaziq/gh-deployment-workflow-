@@ -25,10 +25,6 @@ The workflow is configured to:
 
 After deployment, the website will be available at:
 
-https://YOUR-USERNAME.github.io/gh-deployment-workflow/
-
-Replace `YOUR-USERNAME` with your GitHub username.
-
 ## Technologies
 
 - HTML
@@ -37,3 +33,5 @@ Replace `YOUR-USERNAME` with your GitHub username.
 https://roadmap.sh/projects/github-actions-deployment-workflow
 
 https://roadmap.sh/projects/github-actions-deployment-workflow/solutions?u=6ac6764f9195e6b999ec3044
+
+Your site is live at https://usmanhaziq.github.io/gh-deployment-workflow-/
